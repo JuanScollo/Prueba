@@ -1,2 +1,3 @@
 nashe 1
 nashe 2
+nashe solo
