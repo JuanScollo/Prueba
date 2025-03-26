@@ -3,4 +3,9 @@ nashe 2
 nashe solo
 aceitunas 
 marselos
+<<<<<<< HEAD
 autos
+=======
+enanardos
+marselardos
+>>>>>>> nuevaBranch
