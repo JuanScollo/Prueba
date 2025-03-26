@@ -2,5 +2,10 @@ nashe
 nashenashei
 el momo
 nashenashei
+<<<<<<< HEAD
 meganashe
 ultrameganashe
+=======
+enanos albinos
+meganashe
+>>>>>>> 4e0ff2a8ef81182ce6f3552c29f629bdd762b4f5
